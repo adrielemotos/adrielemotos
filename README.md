@@ -1,3 +1,5 @@
+<img src="https://github.com/adrielemotos/adrielemotos/blob/main/assets/sakura-pink.gif?raw=true" width="120" align="left">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&text=Welcome%20to%20my%20profile&section=header&font=Raleway&fontSize=60&stroke=e93790&desc=Frontend%20Developer&descAlign=77&descAlignY=67&fontColor=f28aab&animation=twinkling" />
 </p>
